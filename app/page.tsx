@@ -8,7 +8,7 @@ export default function page() {
 		<div className="mx-3 sm:mx-auto max-w-[38.875rem]">
 			<HeroSection />
 			<Projects />
-			<Blogs />
+			{/* <Blogs /> */}
 		</div>
 	);
 }
