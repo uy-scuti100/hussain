@@ -49,7 +49,7 @@ export const metadata: Metadata = {
 		creator: "@hussain_joe",
 		title: "Hussain Yusuf | UY_SCUTI",
 		description:
-			"Osiris Digital Agency empowers brands to thrive in the digital landscape. We craft exceptional design solutions and data-driven strategies that elevate your brand presence, drive conversions, and achieve your marketing goals.",
+			"Full-stack web developer and web designer, committed to creating scalable web apps and websites that are easy to use with a beautiful user experience and convert users into loyal customers.",
 		images:
 			"https://cdn.sanity.io/images/8kuztcv7/production/679c265989451b1da723898a32232061edccd452-1440x1800.webp",
 	},
